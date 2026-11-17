@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Questions & ideas (Discussions)
+    url: https://github.com/asadahmadx/zaasmi/discussions
+    about: Ask questions, share how you use Zaasmi, and discuss ideas.
+  - name: 📧 Support & billing
+    url: mailto:hello@zaasmi.com
+    about: Account, billing, or anything you'd rather not post publicly.
+  - name: ❓ FAQ
+    url: https://zaasmi.com/faq.html
+    about: Common questions about privacy, platforms, and pricing.
