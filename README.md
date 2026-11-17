@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://zaasmi.com/downloads"><img src="https://img.shields.io/badge/Download-macOS-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS"></a>
+  <a href="https://zaasmi.com/#download"><img src="https://img.shields.io/badge/Download-macOS-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS"></a>
   &nbsp;
-  <a href="https://zaasmi.com/downloads"><img src="https://img.shields.io/badge/Download-Windows-0067b8?style=for-the-badge&logo=windows11&logoColor=white" alt="Download for Windows"></a>
+  <a href="https://zaasmi.com/#download"><img src="https://img.shields.io/badge/Download-Windows-0067b8?style=for-the-badge&logo=windows11&logoColor=white" alt="Download for Windows"></a>
   &nbsp;
   <a href="https://zaasmi.com"><img src="https://img.shields.io/badge/Website-zaasmi.com-FF2D00?style=for-the-badge" alt="zaasmi.com"></a>
 </p>
@@ -49,7 +49,7 @@ Zaasmi is a desktop AI copilot that listens to your live calls and shows you wha
   <img src="https://zaasmi.com/footer.png" alt="Zaasmi overlay and dashboard" width="760">
 </p>
 
-1. **Download & sign in** — grab the Mac or Windows app from [zaasmi.com/downloads](https://zaasmi.com/downloads) and sign in with email or Google.
+1. **Download & sign in** — grab the Mac or Windows app from [zaasmi.com](https://zaasmi.com/#download) and sign in with email or Google.
 2. **Add your skills** — upload your services, pricing, objection answers, and competitor notes so suggestions are grounded in your business.
 3. **Start it before your call** — launch the overlay and join your meeting as usual on Zoom, Meet, or Teams.
 4. **Get answers only you can see** — Zaasmi listens and surfaces real-time talking points in a private panel, tagged SAY NOW or LATER.
